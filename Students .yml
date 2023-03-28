@@ -1,0 +1,26 @@
+first name: Rodrigo
+last name: Lopez
+age: 19
+department: General education
+married: null
+groupmates:
+  - "Alice Rogers"
+  - "Simon Baker"
+hobbies: [sewing, yoga]
+publications: true
+course: 2
+top student: true
+sport: basketball	
+subject:
+    - name: Math
+      mark: 100
+    - name: Arts
+      mark: 95
+    - name: History
+      mark: 91
+    - name: English
+      mark: 92
+    - name: Biology
+      mark: 91
+    - name: Physics
+      mark: 96

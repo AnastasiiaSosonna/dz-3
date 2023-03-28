@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<first name>Rodrigo</first name>
+	<last name>Lopez</last name>
+	<age>19</age>
+	<department>General education</department>
+	<married>null</married>
+	<publications>true</publications>
+	<course>2</course>
+	<top student>true</top student>
+	<sport>basketball</sport>	
+	<subject>
+		<name>Math</name>
+		<mark>100</mark>
+	</subject>
+	<subject>
+		<name>Arts</name>
+		<mark>95<mark>
+	</subject>
+	<subject>
+		<name>History</name>
+		<mark>91<mark>
+	</subject>
+	<subject>
+		<name>English</name>
+		<mark>92<mark>
+	</subject>
+	<subject>
+		<name>Biology</name>
+		<mark>91<mark>
+	</subject>	
+	<subject>
+		<name>Physics</name>
+		<mark>96<mark>
+	</subject>	
+</root>
